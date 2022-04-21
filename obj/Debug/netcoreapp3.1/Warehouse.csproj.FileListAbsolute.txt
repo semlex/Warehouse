@@ -1,0 +1,13 @@
+C:\Users\alexp\Desktop\ООП\CursIM\Warehouse\bin\Debug\netcoreapp3.1\Warehouse.exe
+C:\Users\alexp\Desktop\ООП\CursIM\Warehouse\bin\Debug\netcoreapp3.1\Warehouse.deps.json
+C:\Users\alexp\Desktop\ООП\CursIM\Warehouse\bin\Debug\netcoreapp3.1\Warehouse.runtimeconfig.json
+C:\Users\alexp\Desktop\ООП\CursIM\Warehouse\bin\Debug\netcoreapp3.1\Warehouse.runtimeconfig.dev.json
+C:\Users\alexp\Desktop\ООП\CursIM\Warehouse\bin\Debug\netcoreapp3.1\Warehouse.dll
+C:\Users\alexp\Desktop\ООП\CursIM\Warehouse\bin\Debug\netcoreapp3.1\Warehouse.pdb
+C:\Users\alexp\Desktop\ООП\CursIM\Warehouse\obj\Debug\netcoreapp3.1\Warehouse.csprojAssemblyReference.cache
+C:\Users\alexp\Desktop\ООП\CursIM\Warehouse\obj\Debug\netcoreapp3.1\Warehouse.AssemblyInfoInputs.cache
+C:\Users\alexp\Desktop\ООП\CursIM\Warehouse\obj\Debug\netcoreapp3.1\Warehouse.AssemblyInfo.cs
+C:\Users\alexp\Desktop\ООП\CursIM\Warehouse\obj\Debug\netcoreapp3.1\Warehouse.csproj.CoreCompileInputs.cache
+C:\Users\alexp\Desktop\ООП\CursIM\Warehouse\obj\Debug\netcoreapp3.1\Warehouse.dll
+C:\Users\alexp\Desktop\ООП\CursIM\Warehouse\obj\Debug\netcoreapp3.1\Warehouse.pdb
+C:\Users\alexp\Desktop\ООП\CursIM\Warehouse\obj\Debug\netcoreapp3.1\Warehouse.genruntimeconfig.cache
